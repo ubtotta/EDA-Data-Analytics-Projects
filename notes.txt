@@ -1,0 +1,7 @@
+- Numpy : Numerical python 
+- If we have to do any numerical, mathematical operations on the data sets then we use numpy module.
+- np.array(name)  ->   used to convert from list to array using numpy
+- if we try to convert a list into array which is storing multiple values, then it will check which type of data it can commonly apply 
+- for example
+        l1=[10,3.5,'np',9+3j]
+        here it when we try to convert it to array it will check each and every element and here it will convert it into a string.
